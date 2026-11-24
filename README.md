@@ -1,6 +1,6 @@
 # Getting started
 
-There are three places to write JavaScript in Bloxd: code blocks, code boards and World Code. Code in any of them controls the game through `api`, in custom games and worlds. Only players who can edit code (the `canEditCode` client option) can write it, but anyone can run a code block or board.
+There are three places to write JavaScript in Bloxd: code blocks, code boards and World Code. Code in any of them controls the game through `api`, in custom games and worlds. Only players who can edit code (canEditCode client option was the legacy option but is now removed -fussy) can write it, but anyone can run a code block or board.
 
 Please use [our Discord](https://discord.gg/playbloxd) to report problems or suggest features.
 
